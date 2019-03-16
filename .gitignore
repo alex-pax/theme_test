@@ -1,3 +1,6 @@
+#ignore the public/ directory since it will be automatically created by netlify.com
+public/
+
 # History files
 .Rhistory
 .Rapp.history

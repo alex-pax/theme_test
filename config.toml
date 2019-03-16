@@ -33,7 +33,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Twitter"
     url = "https://twitter.com/AlexPax6"
     weight = 4
-[[menu.main]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 5
+

@@ -1,6 +1,6 @@
-baseurl = "https://nanx.me/hugo-tanka/"
-title = "Hugo Tanka Theme"
-author = "Nan Xiao"
+baseurl = "https://alexpax.com"
+title = "Alex Pax"
+author = "Alex Pax"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
@@ -19,19 +19,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Home"
-    url = "https://nanx.me"
+    url = "https://alexpax.com"
     weight = 1
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/road2stat"
+    url = "https://github.com/alex-pax"
     weight = 2
 [[menu.main]]
     name = "LinkedIn"
-    url = "https://www.linkedin.com/in/road2stat"
+    url = "https://www.linkedin.com/in/alexander-pax-471aa492/"
     weight = 3
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/road2stat"
+    url = "https://twitter.com/AlexPax6"
     weight = 4
 [[menu.main]]
     name = "RSS"

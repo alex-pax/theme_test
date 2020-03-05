@@ -1,0 +1,29 @@
+---
+title: Hello World
+author: Alex Pax
+date: '2020-03-04'
+slug: hello-world
+categories:
+  - R
+  - blogdown
+  - tests
+tags: []
+---
+
+
+# Hello
+
+My name is Alex.  This is my blog.  I am a data scientist working in commerical property and casualty insurance where a lot of challenges exist to be solved.  
+
+My personal interests fall into four main catergories:
+ 
+ 1.  Music
+ 2.  Books
+ 3.  Games
+ 4.  Cooking
+
+# World
+
+I expect that this blog will live deep down in the dark depths of the unread internet.  Nonetheless, I plan on using this as a place to document data science and other projects I'm working on.
+
+I primarily code in [R](https://www.r-project.org/) and plan to contribute to the [Casualty Actuarial Society's](https://github.com/casact) open source projects.
